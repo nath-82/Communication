@@ -1,2 +1,2 @@
 # Communication
-Communicate here by requesting edits
+Communicate here with me by making an issue.
